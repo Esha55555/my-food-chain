@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+    
+}
+.orange-color{
+color: orange;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 30%;
+}
+.half-width img{
+    width:100%;
+}
+.link-button{
+    text-decoration:none;
+    background-image: linear-gradient(tomato,orange);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 400;
+    border-radius: 200px;
+}
+.about me{
+    background-image: url(images/shapes/Frame\ 56.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+}
